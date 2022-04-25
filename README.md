@@ -1,1 +1,1 @@
-# PHP_liste_personnes
+l'objectif de cet exercice est de récupérer les données de chaque personne dans une fiche personnalisée 
